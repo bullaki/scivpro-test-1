@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Minimal Blog is released under the 0BSD license." />
   </a>
   <a href="https://github.com/sponsors/LekoArts">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
+    <img alt="GitHub!!!!Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
   </a>
   <a href="https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
